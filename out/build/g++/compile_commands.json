@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/najeebahmed/newsapp/out/build/g++",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/NewsAPI.dir/hello.cpp.o -c /home/najeebahmed/newsapp/hello.cpp",
-  "file": "/home/najeebahmed/newsapp/hello.cpp",
-  "output": "CMakeFiles/NewsAPI.dir/hello.cpp.o"
-}
-]

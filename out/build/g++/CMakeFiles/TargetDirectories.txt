@@ -1,3 +1,0 @@
-/home/najeebahmed/newsapp/out/build/g++/CMakeFiles/NewsAPI.dir
-/home/najeebahmed/newsapp/out/build/g++/CMakeFiles/edit_cache.dir
-/home/najeebahmed/newsapp/out/build/g++/CMakeFiles/rebuild_cache.dir

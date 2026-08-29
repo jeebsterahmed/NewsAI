@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/NewsAPI.dir/link.d CMakeFiles/NewsAPI.dir/hello.cpp.o -o NewsAPI

@@ -9,3 +9,4 @@
 
 # Ignore `bin` dir
 bin/
+out/
