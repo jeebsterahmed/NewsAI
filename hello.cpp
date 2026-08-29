@@ -1,5 +1,3 @@
-// test file for github
-
 #include <iostream>
 
 int main() {
